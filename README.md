@@ -1,1 +1,0 @@
-# donation-management-wordpress-plugin
